@@ -27,7 +27,7 @@ To run this project locally, follow these steps:
 ### Installation
 
 1. Clone the repository:
-   ```bash
+```bash
    git clone git@github.com:annefernandess/Monty-Hall-Problem.git
    cd Monty-Hall-Problem
 ```
@@ -40,8 +40,8 @@ To run this project locally, follow these steps:
 ### Running the Project
 
 1.Start the development server:
-  ```bash
-npm run serve
+```bash
+   npm run serve
 ```
 
 2. Open your web browser and navigate to http://localhost:8080 to play the Monty Hall Problem game.
